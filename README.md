@@ -1,1 +1,1 @@
-# react-authorization-form
+# simple codecademy project : one page react-authorization-form
